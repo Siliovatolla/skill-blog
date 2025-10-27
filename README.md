@@ -7,6 +7,7 @@
 已发布文章
 
 - 如何克隆并运行一个ctf-wiki/ctf-tools项目 (CTFtools.md)
+- 如何在win11游戏本本地部署 Qwen2.5-Coder-14B 模型完整指南(本地部署 Qwen2.5-Coder-14B 模型完整指南.md)
 
 目的
 
